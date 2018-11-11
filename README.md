@@ -1,3 +1,6 @@
+#BaseSave.Data
+
+Projet pour la création d'un connecteur à SQL Server
 
 La librairie fournit plusieurs objets dédiés à la connexions et la récupération de données dans SQL Server.
 
