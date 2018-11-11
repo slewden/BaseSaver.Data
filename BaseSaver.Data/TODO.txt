@@ -1,0 +1,6 @@
+﻿
+
+TODO 
+
+Avoir la dernière requete exécuté
+Avoir le dernier code d'erreur
